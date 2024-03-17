@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tigOrp
-- 👀 I’m interested in development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning to code several programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She
+- ⚡ Fun fact: Apart from work, the mixture of music and travelling has always been a part of my books.
 
 <!---
 tigOrp/tigOrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
