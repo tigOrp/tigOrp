@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She
-- ⚡ Fun fact: Apart from work, the mixture of music and travelling has always been a part of my books.
+- ⚡ Fun fact: Apart from work, the mixture of music, food and travelling has always been a part of my books.
 
 <!---
 tigOrp/tigOrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
